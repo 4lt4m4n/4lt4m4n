@@ -7,9 +7,7 @@
 - 💞️ I’m looking to collaborate on... ??? 
 - 
 - /*******************
-- <.impostor syndrome> 
 - `Still cant imagine anyone has use of the things i have learned so far.` 
-- </impostor syndrome>
 - *******************/
 - 
 - 📫 How to reach me ...
